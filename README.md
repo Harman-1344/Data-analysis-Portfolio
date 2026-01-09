@@ -108,6 +108,6 @@ The best way to showcase skills is by doing and sharing your job done but someti
 ## Contacts
 - LinkedIn: [@harmanjitsingh]([https://www.linkedin.com/in/harmanjit-singh-2a9979256/])
 - Email: singhjitharman13@gmail.com
-=======
+  
 # Data-analysis-Portfolio
 About This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
