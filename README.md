@@ -1,12 +1,15 @@
-# Tianna Parris - Data Analyst Portfolio
+
+# Harmanjit Singh - Data Analyst Portfolio
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I'm **Harmanjit Singh**! I am a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning** at **Chandigarh University**. I have a strong interest in data analytics, data science, and machine learning, and I enjoy using data to uncover meaningful insights and solve real-world problems.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+I am actively seeking internship opportunities where I can enhance my technical skills and apply my academic knowledge in a practical environment. My areas of interest include data analysis, critical problem-solving, emerging technologies, and developing efficient, real-world solutions.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering insights from data and building impactful solutions.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+This repository showcases my skills, projects, and progress in **Data Analytics / Data Science**.
+
+My RESUME in [pdf]([https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/resume.pdf)).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -101,24 +104,26 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+Chandigarh University
+Bachelor of Engineering — Computer Science Engineering (AI & ML)  
+2022 – 2026
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
+Triple M Public School, Hoshiarpur:
+Punjab School Education Board (PSEB),
 2019 - 2022
 
-Pre University School:
-Associate's degree, Science and Mathematics,
+DAV Sr. Sec. School, Urmar:
+10th Grade,
 2017 - 2019
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [SQL: A Practical Introduction for Querying Databases (IBM – Coursera)](https://www.coursera.org/account/accomplishments/verify/WEAL15BSDGSM) 
+- [Python for Data Science, AI and Development IBM (Coursera)]([https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV](https://www.coursera.org/account/accomplishments/verify/79ZFNJ689EGK))
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@harmanjitsingh]([https://www.linkedin.com/in/tianna-parris-9b6823176/)](https://www.linkedin.com/in/harmanjit-singh-2a9979256/)
+- Email: singhjitharman13@gmail.com
+=======
+# Data-analysis-Portfolio
+About This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
