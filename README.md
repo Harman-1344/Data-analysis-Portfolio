@@ -9,7 +9,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 This repository showcases my skills, projects, and progress in **Data Analytics / Data Science**.
 
-My RESUME in [pdf]([https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/resume.pdf)).
+My RESUME in [pdf]([https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/resume.pdf]).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
