@@ -14,30 +14,27 @@ My RESUME in [pdf]([https://github.com/tiannaparris/Data-Analysis-Portfolio/blob
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/README.md#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Tech Store Sales Analysis](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/README.md#tech-store-sales-analysis)  
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
+    - [Covid 19 Data Exploration](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/README.md#covid-19-data-exploration)
   - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+    - [Legendary Pokémon Analysis (Study Project)](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/README.md#legendary-pok%C3%A9mon-analysis)
   - Power BI
   
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/Harman-1344/Data-analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/Harman-1344/Data-Analysis-Projects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
 
 **Goal:** To determine what factors contribute the most to a movie's success.
 
@@ -63,21 +60,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Python functions that calculated and visually presented the sales data by month, city, and the most commonly sold items. Additionally, the reasons for the high frequency of these items being sold were analyzed and provided as insights.
 
-
-
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
-
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
-
-
 ### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/Harman-1344/Data-Analysis-Projects/blob/main/COVID%20Portfolio%20Project.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
@@ -91,7 +75,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
 
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
+**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/Harman-1344/Data-Analysis-Projects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
 **Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
 
@@ -109,20 +93,20 @@ Bachelor of Engineering — Computer Science Engineering (AI & ML)
 2022 – 2026
 
 Triple M Public School, Hoshiarpur:
-Punjab School Education Board (PSEB),
+Punjab School Education Board (PSEB)
 2019 - 2022
 
 DAV Sr. Sec. School, Urmar:
-10th Grade,
+10th Grade
 2017 - 2019
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [SQL: A Practical Introduction for Querying Databases (IBM – Coursera)](https://www.coursera.org/account/accomplishments/verify/WEAL15BSDGSM) 
-- [Python for Data Science, AI and Development IBM (Coursera)]([https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV](https://www.coursera.org/account/accomplishments/verify/79ZFNJ689EGK))
+- [Python for Data Science, AI and Development IBM (Coursera)]([https://www.coursera.org/account/accomplishments/verify/79ZFNJ689EGK])
 
 ## Contacts
-- LinkedIn: [@harmanjitsingh]([https://www.linkedin.com/in/tianna-parris-9b6823176/)](https://www.linkedin.com/in/harmanjit-singh-2a9979256/)
+- LinkedIn: [@harmanjitsingh]([https://www.linkedin.com/in/harmanjit-singh-2a9979256/])
 - Email: singhjitharman13@gmail.com
 =======
 # Data-analysis-Portfolio
