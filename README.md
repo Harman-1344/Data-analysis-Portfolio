@@ -103,7 +103,7 @@ DAV Sr. Sec. School, Urmar:
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [SQL: A Practical Introduction for Querying Databases (IBM – Coursera)](https://www.coursera.org/account/accomplishments/verify/WEAL15BSDGSM) 
-- [Python for Data Science, AI and Development IBM (Coursera)]([https://www.coursera.org/account/accomplishments/verify/79ZFNJ689EGK])
+- [Python for Data Science, AI and Development IBM (Coursera)](https://www.coursera.org/account/accomplishments/verify/79ZFNJ689EGK)
 
 ## Contacts
 - LinkedIn: [@harmanjitsingh]([https://www.linkedin.com/in/harmanjit-singh-2a9979256/])
